@@ -11,4 +11,6 @@ def concatenate_lists(lista1, lista2):
     Returns:
         Una nueva lista con todos los elementos de lista1 seguidos de lista2
     """
-    pass  # Reemplazar con tu implementación
+    return lista1 + lista2
+
+#concatenate_lists()
